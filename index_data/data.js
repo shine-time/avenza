@@ -1,0 +1,1 @@
+{"layers":[{"bounds":{"height":792,"width":612,"x":0,"y":0},"depth":1,"features":[],"name":"Hawaii - 10","tileSet":{"displayRects":[{"maxLevel":12,"minLevel":7,"rect":{"height":3168,"width":2448,"x":0,"y":0}}],"format":"jpg","height":3168,"prefixUrl":"layer_1_files","tileSize":512,"width":2448},"userToggle":false,"visible":true}],"size":{"height":792,"width":612}}
